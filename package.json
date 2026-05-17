@@ -1,0 +1,47 @@
+{
+  "name": "cypress-healing-agent",
+  "version": "1.0.0",
+  "description": "Self healing selector agent for automation maintenance",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist",
+    "cypress-support"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "cypress",
+    "self-healing",
+    "selector",
+    "automation",
+    "maintenance",
+    "claude",
+    "ai-testing"
+  ],
+  "homepage": "https://github.com/Christina283/Cypress-Healing-Agent#readme",
+  "bugs": {
+    "url": "https://github.com/Christina283/Cypress-Healing-Agent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christina283/Cypress-Healing-Agent.git"
+  },
+  "license": "ISC",
+  "author": "Christina Charles",
+  "peerDependencies": {
+    "cypress": ">=12.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.96.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "cypress": "^15.15.0",
+    "typescript": "^6.0.3"
+  }
+}

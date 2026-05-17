@@ -1,0 +1,1 @@
+{"version":3,"file":"ClaudeClient.d.ts","sourceRoot":"","sources":["../../../src/llm/ClaudeClient.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,iBAAiB,EAAE,MAAM,UAAU,CAAC;AAE1D,qBAAa,YAAY;IACvB,OAAO,CAAC,MAAM,CAAY;IAC1B,OAAO,CAAC,KAAK,CAAS;gBAEV,MAAM,EAAE,WAAW;IAOzB,0BAA0B,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,iBAAiB,EAAE,CAAC;CA2B/E"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"command.d.ts","sourceRoot":"","sources":["../../cypress-support/command.ts"],"names":[],"mappings":"AAmCA,OAAO,CAAC,MAAM,CAAC;IACb,UAAU,OAAO,CAAC;QAChB,UAAU,SAAS;YACjB,UAAU,CAAC,QAAQ,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,OAAO,CAAC,WAAW,CAAC,GAAG,SAAS,CAAC,MAAM,CAAC,CAAC;SACjF;KACF;CACF"}

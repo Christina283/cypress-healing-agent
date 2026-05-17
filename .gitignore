@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+.env
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+.DS_Store
+.vscode/
